@@ -1,7 +1,12 @@
 {
-  "name": "Glassdoor De Block",
+  "name": "Glassdoor unblock",
   "version": "1.0",
-  "description": "Glassdoor De Block!",
+  "description": "Remove Glassdoor block!",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
   "browser_action": {
     "default_popup": "popup.html"
   },
